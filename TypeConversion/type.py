@@ -9,3 +9,4 @@ print(type(b))
 
 
 print(b)
+print(type(b))
